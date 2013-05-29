@@ -6,7 +6,7 @@ It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://daringfir
 
 Contents
 -----
-* [Freight transport project](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/freight_transport_project.ipynb) [source code](https://github.com/peterwilliams97/john/blob/master/freight_transport_project.ipynb)
+* [Freight transport project](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/freight_transport_project.ipynb) ([source code](https://github.com/peterwilliams97/john/blob/master/freight_transport_project.ipynb))
 
 
 Setup
