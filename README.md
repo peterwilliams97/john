@@ -2,7 +2,7 @@ John's GitHub Area
 ----
 John's project is stored in source form on [GitHub](https://github.com/peterwilliams97/john)
 
-It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://daringfireball.net/projects/markdown/syntax).
+It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%204%20-%20Markdown%20Cells.ipynb).
 
 ### Contents
 
@@ -11,9 +11,9 @@ It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://daringfir
 
 ### Setup
 You can setup a modern computer to recreate these project using
-* Anaconda
-* Git
-* cygwin
+* [Anaconda](https://store.continuum.io/)
+* Git in [Cygwin](http://www.cygwin.com/install.html) on Windows, or
+* Git on Mac or Linux
 
 Editing Projects
 ---
@@ -34,6 +34,8 @@ This starts a browser.
 * Go to the browser, click on the link to your project and edit the IPython notebook.
 
 Type `Ctl-M H` to see the commands available in IPython
+
+We will be using Markdown cell
 
 
 
