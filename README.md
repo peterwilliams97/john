@@ -35,7 +35,13 @@ This starts a browser.
 
 Type `Ctl-M H` to see the commands available in IPython
 
-We will be using Markdown cell
+We will be using [Markdown](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%204%20-%20Markdown%20Cells.ipynb) cells in the notebook.
+
+Remember to 
+* attribute all pictures and information you download from the web
+* save your notebook regularly
+* commit your code in git regularly
+
 
 
 
