@@ -7,7 +7,7 @@ It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://nbviewer.
 ### Contents
 
 * [Freight transport project](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/freight_transport_project.ipynb) ([source code](https://github.com/peterwilliams97/john/blob/master/freight_transport_project.ipynb))
-* [Times table](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/Times%20Table.ipynb) (source code](https://github.com/peterwilliams97/john/blob/master/Times%20Table.ipynb))
+* [Times table](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/Times%20Table.ipynb) ([source code](https://github.com/peterwilliams97/john/blob/master/Times%20Table.ipynb))
 
 
 ### Setup
