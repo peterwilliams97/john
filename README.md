@@ -40,7 +40,7 @@ We will be using [Markdown](http://nbviewer.ipython.org/url/github.com/ipython/i
 Remember to 
 * attribute all pictures and information you download from the web
 * save your notebook regularly
-* commit your code in git regularly
+* [commit](https://github.com/peterwilliams97/john/blob/master/git.md#editing-in-cygwin-on-windows-in-this-example) your code in git regularly
 
 
 
