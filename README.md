@@ -21,7 +21,7 @@ Editing Projects
 * Create a directory for project
 * Create a [git repositry](https://github.com/peterwilliams97/john/blob/master/git.md) there
 * Go to the directory
-* Start IPtyhon in notebook mode
+* Start IPython in notebook mode
   `ipython notebook --pylab inline`
   
 e.g. In Windows
@@ -39,6 +39,7 @@ Type `Ctl-M H` to see the commands available in IPython
 We will be using [Markdown](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%204%20-%20Markdown%20Cells.ipynb) cells in the notebook.
 
 Remember to 
+* check copyright of pictures and information you find on the web before using them (e.g. Google [Free to use or share](https://support.google.com/websearch/answer/29508?hl=en&rd=1))
 * attribute all pictures and information you download from the web
 * save your notebook regularly
 * [commit](https://github.com/peterwilliams97/john/blob/master/git.md#editing-in-cygwin-on-windows-in-this-example) your code in git regularly
