@@ -17,8 +17,7 @@ You can setup a modern computer to recreate these project using
 * Git in [Cygwin](http://www.cygwin.com/install.html) on Windows, or
 * Git on Mac or Linux
 
-Editing Projects
----
+### Editing Projects
 * Create a directory for project
 * Create a [git repositry](https://github.com/peterwilliams97/john/blob/master/git.md) there
 * Go to the directory
