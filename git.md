@@ -14,7 +14,7 @@ Set up git (Replace these with your name and email address)
 *  `git pull origin master`
 
 ### Editing (In Cygwin on Windows in this example)
-*  `cd /cygdrive/c/John'
+*  `cd /cygdrive/c/John`
 *   [Edit](https://github.com/peterwilliams97/john/blob/master/README.md#editing-projects) your notebook(s)
 *   `git commit -am "Description of what you changed"`
 *   `git push origin master`
