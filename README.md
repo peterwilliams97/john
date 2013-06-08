@@ -19,7 +19,7 @@ You can setup a modern computer to recreate these project using
 
 ### Editing Projects
 * Create a directory for project
-* Create a [git repositry](https://github.com/peterwilliams97/john/blob/master/git.md) there
+* Create a [git repository](https://github.com/peterwilliams97/john/blob/master/git.md) there
 * Go to the directory
 * Start IPython in notebook mode
   `ipython notebook --pylab inline`

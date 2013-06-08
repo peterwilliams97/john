@@ -6,7 +6,7 @@ Set up git (Replace these with your name and email address)
 * `git config --global user.email peter.williams.97@gmail.com`
         
 ### Next steps (In Cygwin on Windows in this example)
-*  `cd /cygdrive/c/John'
+*  `cd /cygdrive/c/John`
 *  `mkdir john`
 *  `cd john`
 *  `git init`
