@@ -10,10 +10,6 @@ It uses [IPython](http://ipython.org/) notebooks and [Markdown](http://nbviewer.
 * [Times table](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/Times%20Table.ipynb) ([source code](https://github.com/peterwilliams97/john/blob/master/Times%20Table.ipynb))
 * [Algebra](http://nbviewer.ipython.org/urls/raw.github.com/peterwilliams97/john/master/Algebra.ipynb) ([source code](https://github.com/peterwilliams97/john/blob/master/Algebra.ipynb))
 
-
-![equation](http://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
-
-
 ### Setup
 You can setup a modern computer to recreate these project using
 * [Anaconda](https://store.continuum.io/)
